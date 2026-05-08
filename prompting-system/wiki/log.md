@@ -172,3 +172,12 @@ Append-only chronological record. Newest at the bottom.
 - Surfaced the **Vamachara reinterpretation** (`cd2e6f95`, 2026-03-12): nadi dosha as *kundalini activation*, Manglik as *Mars / Shakti transmission*, Deva-Rakshasa as *Shiva-Shakti polarity*. Difficult Vedic combinations reframed as intensity-containers, not marriage-blockers. This is where "happiness over duty" gets concrete in code.
 - Linked to existing [[topics/matching-algorithm]], [[decisions/gender-blind-matching]], [[decisions/deterministic-synastry-engine]], [[voices/vedic]], [[apps/seeking-toxic-relationships]] (the precursor that first explored deterministic Vedic-influenced matching weights).
 - Wiki count: **15 topics + 10 decisions + 8 music + 7 apps + 5 voices = 45 pages.**
+
+## [2026-05-08] expand | Daily ledger of every matching-algorithm commit
+- User asked for the day-by-day record so anyone wanting to understand the algorithm can walk it commit by commit.
+- Wrote [[decisions/matching-daily-ledger]]: 81 commits across 30 active days, Feb 2026 to May 2026, organised by month with date, time, hash, message, and "what changed" per entry.
+- Major artefact surfaced: commit `2aef2407` (2026-03-21, 12:06), *"fix: Ashtakoota tables (Graha Maitri, Yoni, Gana) + Happiness Index"*. **"The Happiness" was added as a 9th deterministic compatibility category** (computed as Gana + Graha Maitri + Yoni), with the inherited Ashtakuta tables repaired in the same commit (Yoni Tiger row, GRAHA_MAITRI compound friendship, Gana Deva-Rakshasa). This is the technical landing point of "happiness over duty": the 9th category that traditional Ashtakuta does not have.
+- Surfaced the 11-commit Vedic-voice iteration night (Mar 15, 00:06 to 02:55). Aghori-witness voice tried, Calasso voice tried 3 minutes later, multiple reverts.
+- Surfaced the Vamachara commit `cd2e6f95` (Mar 12, 20:38) as the moment the philosophy lands in code: nadi dosha as kundalini activation, Manglik as Mars / Shakti transmission, Deva-Rakshasa as Shiva-Shakti polarity.
+- Updated [[topics/matching-philosophy]] with a section on "The Happiness" landing in code.
+- **Wiki count: 11 decisions + 15 topics + 8 music + 7 apps + 5 voices = 46 pages.**

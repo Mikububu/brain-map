@@ -108,9 +108,25 @@ Because the engine is doing genuine cross-cultural work:
 
 The PhD-worthy part is the **synthesis**. Most modernisations of traditional systems either keep the social ideology and lose the lineage's cultural grounding, or strip the lineage entirely. This engine does neither: it keeps the Vedic substrate and inverts the social commitments, producing something that is recognisably descended from Ashtakuta but cannot be served by it.
 
+## "The Happiness" landed in code on March 21
+
+The most beautiful artefact in the matching corpus: commit `2aef2407` (2026-03-21, 12:06) literally adds *"The Happiness"* as a 9th deterministic compatibility category, computed as `Gana + Graha Maitri + Yoni`.
+
+This is not metaphor. The user took three of the traditional Ashtakuta kutas (Gana = temperament; Graha Maitri = mental friendship; Yoni = sexual compatibility) and combined them into a NEW computed category called *"The Happiness."* In the same commit, the Ashtakuta tables themselves were corrected (the YONI table's Tiger row was a copy of Cow; the GRAHA_MAITRI table only had 3-of-5 levels of Parashara compound friendship; the GANA table had Deva-Rakshasa scoring incorrectly).
+
+So in one commit:
+- Repair the inherited tradition (fix the Ashtakuta tables that had been transmitted with errors)
+- Extend it (add a 9th category that traditional Ashtakuta does not have)
+- Name the extension what it actually optimises for: **"The Happiness"**
+
+This is the technical move that makes "happiness over duty" not just a stance but a category in the score table. Translated into all 10 languages.
+
+For the full daily evolution see [[decisions/matching-daily-ledger]].
+
 ## Connections
 
 - [[topics/matching-algorithm]] (the technical implementation)
+- [[decisions/matching-daily-ledger]] (every commit, chronologically)
 - [[decisions/deterministic-synastry-engine]] (the Mar 10 pivot, math-first)
 - [[decisions/gender-blind-matching]] (the modernity move, connection over gender)
 - [[voices/vedic]] (the system this matching is most rooted in)
