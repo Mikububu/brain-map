@@ -84,6 +84,26 @@ The Mar 10 engine was not the first deterministic synastry weighting in the user
 - **[[apps/past-life-contracts]]**: Western + Vedic engines, but only nodal axis weighed; other aspects = karmic echoes, not current-life mechanics
 - **[[apps/families-app]]**: extends to family relationships. Adds Soul Contract Significance, Shadow Danger, Shared-Void Risk
 
+## Gender-blind matching (the modernity move)
+
+The deep matching engine has **zero references to `gender`** in any of its code. Verified across all five synastry engines (Western, Vedic, HD, Gene Keys, Kabbalah) and the verdict aggregator.
+
+What this means in practice:
+
+> *"The deep matching (the Ayurvedic deep matching) is not based on gender; even if we specify our own gender, we can match. I included the gender only so the long readings have the correct pronouns. Even this is worth PhD documentation, and it's very modern because you're not swiping for a gender. You are swiping for connections."*
+
+The architectural commitment:
+
+- **Gender does not enter the synastry computation.** Aspects, house overlays, sect, lots, dasha periods, nakshatra resonance, shadow / gift overlap, defined-vs-open centre interactions, sephiroth balance: none of these are gender-keyed
+- **Gender is used only downstream**, in the long-form reading, to choose pronouns ("she," "he," "they")
+- **The user picks who to swipe on by gender preference if they want**, but the matching itself does not require it. Two people of the same gender can be deeply karmically matched and the engine surfaces that match
+
+The user's framing: *"You're not swiping for a gender. You are swiping for connections."*
+
+This is one of the most distinctive architectural decisions in the suite. Most contemporary matching apps gate-match on gender first, then refine. The deep matching engine does the opposite: chart-first, connection-first; gender is a downstream pronoun question, not a filter.
+
+See [[decisions/gender-blind-matching]] for the dedicated decision page.
+
 ## Texture
 
 How this builder thinks about matching:

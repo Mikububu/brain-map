@@ -156,3 +156,12 @@ Append-only chronological record. Newest at the bottom.
 - Confirmed [[apps/past-life-contracts]] has no music; instead uses `audioNarrationPass.ts` for TTS-optimised spoken narrative (5-7 paragraphs, 500-700 words).
 - The lyric drafts for `one_in_a_billion_*.mp3` remain elusive, not in commits or text history. They live elsewhere (deleted branches, drafts folder, or external conversations).
 - Wiki count: **8 music + 9 decisions + 14 topics + 7 apps + 5 voices = 43 pages.**
+
+## [2026-05-08] capture | Gender-blind matching (the modernity move)
+- User surfaced an architectural commitment that's NOT in the wiki yet: deep matching has no gender filter. *"You're not swiping for a gender. You are swiping for connections."*
+- Verified in code: `grep -rE gender` across all five synastry engines and the compatibility scoring service returns **zero matches**. Gender-blind by construction.
+- Gender enters only downstream, in the long-form reading, for pronoun rendering.
+- Wrote [[decisions/gender-blind-matching]]. Updated [[topics/matching-algorithm]] with a new section.
+- The user's note that this is *"worth PhD documentation"* and *"very modern"* reframes it as a deliberate architectural inversion of contemporary matching-app defaults.
+- The user used the term *"Ayurvedic deep matching"* to describe this, colloquial for the deep / Vedic / karmic-tradition flavour. The actual engine is the deterministic 5-system synastry; Vedic carries particular weight given karma / nakshatra emphasis.
+- Wiki count: **10 decisions + 8 music + 14 topics + 7 apps + 5 voices = 44 pages.**

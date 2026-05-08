@@ -38,6 +38,7 @@ Pivotal commits, expanded into their own pages.
 - [[decisions/unhinged-import|Unhinged Import]] (2026-04-08, `6b4363e`), the dialectical fork is born
 - [[decisions/families-empathy-fork|Families Empathy Fork]] (2026-04-12, `de30f75`), sexual mechanism block disabled, Robinson / Sebald / Ernaux replace Miller / Jelinek
 - [[decisions/toxic-to-diagnostic-noir|Toxic to Diagnostic Noir]] (2026-04-15, `3e7eb2a`), the prompt tone Apple-driven rebrand
+- [[decisions/gender-blind-matching|Gender-Blind Matching]] (ongoing, structural), connection over gender. The deep matching engine has zero gender references in code
 
 ## Music (the new wing, deep-walked)
 - [[music|Music hub]], the four-layer pipeline + cross-cutting overview
