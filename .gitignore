@@ -8,8 +8,8 @@ work-notes/raw/*
 reading-list/raw/*
 prompting-system/raw/*
 
-# but keep the README placeholders so the folder structure shows up in the repo
-!**/raw/README.md
+# but keep .gitkeep placeholders so the folder structure shows up in the repo
+!**/raw/.gitkeep
 
 # Quartz build artifacts (generated, not committed)
 node_modules/
