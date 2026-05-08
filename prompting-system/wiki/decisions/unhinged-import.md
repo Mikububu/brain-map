@@ -36,8 +36,7 @@ The April 15 prompt-tone shift (*"fairytale → diagnostic noir"*) and the April
 
 ## Connections
 
-- [[apps/unhinged]]
-- [[apps/seeking-toxic-relationships]] (the abandoned predecessor)
+- [[apps/unhinged]] (covers both Swift and React Native incarnations)
 - [[topics/the-dialectic]]
 - [[topics/toxic-to-unhinged-rebrand]]
 - [[topics/four-app-constellation]]

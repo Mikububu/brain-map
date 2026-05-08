@@ -60,7 +60,7 @@ The same cultural pressure applies in image space, and the user has been working
 - **Uncensored** (`github.com/Mikububu/Uncensored`, created 2026-01-12). ComfyUI-based platform.
 - **aprils-spielzeugkasten** (`github.com/Mikububu/aprils-spielzeugkasten`, created 2026-01-18). MiniMax-based image and video generation, *"No Censorship."*
 
-Two faces of the same problem: every generation modality has been censored in roughly the wrong direction. The uncensored-LLM and uncensored-image research threads are sibling projects, started the same week as [[apps/seeking-toxic-relationships|Seeking Toxic Relationships]] (Jan 19) and the early [[topics/january-foundation|1-in-a-Billion v0]] (Jan 7).
+Two faces of the same problem: every generation modality has been censored in roughly the wrong direction. The uncensored-LLM and uncensored-image research threads are sibling projects, started the same week as [[apps/unhinged|Unhinged's early Swift codebase]] (Jan 19, under the *Seeking Toxic Relationships* tagline) and the early [[topics/january-foundation|1-in-a-Billion v0]] (Jan 7).
 
 ## What would solve this fully
 

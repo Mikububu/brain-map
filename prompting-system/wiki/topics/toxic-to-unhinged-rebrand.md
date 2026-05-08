@@ -129,7 +129,7 @@ Because the rebrand was not a surrender. It was a translation. *"Decode your rom
 ## Connections
 
 - [[apps/unhinged]] (the app this rebrand reshaped)
-- [[apps/seeking-toxic-relationships]] (the abandoned Swift predecessor)
+- [[apps/unhinged]] (covers both Swift and React Native incarnations)
 - [[topics/the-dialectic]] (Unhinged as the dialectical opposite of canonical)
 - [[topics/four-app-constellation]] (Unhinged's role in the larger philosophical map)
 
