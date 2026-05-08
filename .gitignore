@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+.obsidian/
+
+# Source materials in raw/ are local-only (often symlinks to private repos)
+ai-research/raw/*
+work-notes/raw/*
+reading-list/raw/*
+prompting-system/raw/*
+
+# but keep the README placeholders so the folder structure shows up in the repo
+!**/raw/README.md
