@@ -104,6 +104,10 @@ This is one of the most distinctive architectural decisions in the suite. Most c
 
 See [[decisions/gender-blind-matching]] for the dedicated decision page.
 
+## The historical lineage
+
+The deep matching engine is descended from **Ashtakuta**, the eight-fold Vedic compatibility system used in arranged marriages for thousands of years. Two inversions distinguish the modern version: **gender-blind** (traditional Ashtakuta is gendered) and **happiness-oriented** (traditional Ashtakuta optimises for longevity, progeny, family welfare, dharma). For the full lineage, the philosophical inversion, and the comparison with Hinge / Tinder, see [[topics/matching-philosophy]].
+
 ## Texture
 
 How this builder thinks about matching:

@@ -61,6 +61,7 @@ Pivotal commits, expanded into their own pages.
 - [[topics/uncensored-llms|Uncensored LLMs]], the unsolved infrastructure problem at the heart of the engine. Current: OpenRouter + DeepSeek for explicit content. Active research.
 - [[topics/per-language-llms|Per-Language LLM Selection]], Layer 3 is native generation, not translation. Different LLMs handle different languages best. Dispatched via the admin panel.
 - [[topics/qwen3-research|Qwen3 Research]] (self-hosted uncensored), the RunPod work. Qwen3-30B and Qwen2.5-72B-Erotic live as fallback. Three-tier uncensored stack with OpenRouter and Sonnet.
+- [[topics/matching-philosophy|Matching Philosophy]], Ashtakuta modernised. Happiness over duty. Gender-blind. The Vedic hologram updated for the swipe era, completely unlike Hinge or Tinder.
 - [[topics/four-app-constellation|The Four-App Constellation]], the philosophical anthropology. Individual → dyadic → karmic → collective. Each app a different question about consciousness through astrology.
 - [[topics/toxic-to-unhinged-rebrand|The Toxic-to-Unhinged Rebrand]], Apple-driven surface change + the deeper prompt shift from "fairytale for adults" to "diagnostic noir for adults." What stayed, what was softened.
 - [[topics/forbidden-yoga-context|Forbidden Yoga (Parent Brand)]], the 25-year tantric-retreat practice the four apps are downstream of. Kashmir Shaivism, left-handed Shakta lineage.

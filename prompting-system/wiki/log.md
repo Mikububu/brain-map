@@ -165,3 +165,10 @@ Append-only chronological record. Newest at the bottom.
 - The user's note that this is *"worth PhD documentation"* and *"very modern"* reframes it as a deliberate architectural inversion of contemporary matching-app defaults.
 - The user used the term *"Ayurvedic deep matching"* to describe this, colloquial for the deep / Vedic / karmic-tradition flavour. The actual engine is the deterministic 5-system synastry; Vedic carries particular weight given karma / nakshatra emphasis.
 - Wiki count: **10 decisions + 8 music + 14 topics + 7 apps + 5 voices = 44 pages.**
+
+## [2026-05-08] capture | The Ashtakuta lineage and the happiness inversion
+- User: *"It goes against traditional Vedic deep-matching systems, and it aims to induce more happiness... I have modified it slightly and updated it for modern times, but I still base my algorithm on it. If you compare this with algorithms from Hinge or Tinder, it is completely different."*
+- Wrote [[topics/matching-philosophy]]. The full Ashtakuta lineage (8 kutas, 36 points, dharma / progeny / family-welfare optimisation), what the modernised engine keeps (chart-first, multi-axis scoring, Vedic substrate, karmic resonance), what it inverts (gender-blind, happiness-oriented, no single threshold, 5-system blend instead of single-system), and the explicit Hinge / Tinder comparison table.
+- Surfaced the **Vamachara reinterpretation** (`cd2e6f95`, 2026-03-12): nadi dosha as *kundalini activation*, Manglik as *Mars / Shakti transmission*, Deva-Rakshasa as *Shiva-Shakti polarity*. Difficult Vedic combinations reframed as intensity-containers, not marriage-blockers. This is where "happiness over duty" gets concrete in code.
+- Linked to existing [[topics/matching-algorithm]], [[decisions/gender-blind-matching]], [[decisions/deterministic-synastry-engine]], [[voices/vedic]], [[apps/seeking-toxic-relationships]] (the precursor that first explored deterministic Vedic-influenced matching weights).
+- Wiki count: **15 topics + 10 decisions + 8 music + 7 apps + 5 voices = 45 pages.**
