@@ -42,7 +42,7 @@ The Charmaine & Mike validation case proved it. Old approach clustered 60-80 acr
 
 ## The earliest deterministic weighting
 
-The Mar 10 engine was not the first deterministic synastry weighting in the user's work. A month earlier (Jan 19 to Feb 12), the user built a **Vedic-only toxicity engine** in [[apps/seeking-toxic-relationships]]: Rahu 25%, Saturn 15%, Mars 20%, 8th house 20%, 12th house 10%, Shared Nakshatras 5%, Lunar 5%. That codebase was abandoned, but the *principle* (computed weights, not LLM intuition) carried forward into the Mar 10 Western engine.
+The Mar 10 engine was not the first deterministic synastry weighting in the user's work. A month earlier (Jan 19 to Feb 12), the user built a **Vedic-only toxicity engine** in [[apps/unhinged]] (the early Swift codebase): Rahu 25%, Saturn 15%, Mars 20%, 8th house 20%, 12th house 10%, Shared Nakshatras 5%, Lunar 5%. That codebase was abandoned, but the *principle* (computed weights, not LLM intuition) carried forward into the Mar 10 Western engine.
 
 ## Timeline
 

@@ -68,7 +68,7 @@ Append-only chronological record. Newest at the bottom.
 - Two findings:
   1. **The local v2 repo's actual history goes back to 2026-01-07**, not Feb 19. The early commits live on a non-HEAD branch; my earlier walks missed them. The first commit was *"feat: Complete song generation pipeline implementation"*, the song pipeline was already running before the v2 architectural rewrite.
   2. **A separate repo `Mikububu/seeking-toxic-relationships` (created 2026-01-18)** is the predecessor to [[apps/unhinged|Unhinged]]. It's a Swift / SwiftUI iOS app, not currently local. Cloned to `~/Desktop/my Iphone apps/seeking-toxic-relationships/` for analysis.
-- Wrote two new pages: [[topics/january-foundation]] (the 6-week pre-v2 era) and [[apps/seeking-toxic-relationships]] (the Swift predecessor).
+- Wrote two new pages: [[topics/january-foundation]] (the 6-week pre-v2 era) and `apps/seeking-toxic-relationships` (the Swift codebase). [Note 2026-05-08: that second page was later deleted because *Seeking Toxic Relationships* is a tagline / subheadline of the Unhinged app, not a separate app. The Swift codebase content was consolidated into [[apps/unhinged]].]
 - Updated [[apps/1-in-a-billion]] origin section, [[apps/unhinged]] predecessor section, and [[topics/matching-algorithm]] earliest-weighting section.
 - Key reframe: **the v2 rewrite was a voice architecture overhaul on top of an existing engine**, not a foundation built from scratch. All 5 systems already existed at v0 (Jan 7) as TypeScript modules. The five distinct narrator archetypes ("novelist haunted," "Aghori witness," "midnight rabbi," "field biologist," "engineer in love with the machine") were the v2 innovation, layered on top.
 - Other revelations: seeking-toxic-relationships had a fully-coded Vedic toxicity engine (Rahu 25%, Saturn 15%, Mars 20%, 8th house 20%, 12th house 10%, Shared Nakshatras 5%, Lunar 5%) **a month before** the Mar 10 deterministic Western engine. That principle of computed weights carried forward.
@@ -89,7 +89,7 @@ Append-only chronological record. Newest at the bottom.
 - **Founding story** added to [[apps/1-in-a-billion]]: two reasons the app was built. (a) For yoga clients the builder analyses for months before each retreat, paying real astrologers for Vedic and Gene Keys readings that took forever and cost a lot. (b) The name comes from a girlfriend who once called him "one in a billion," until she didn't.
 - **[[topics/forbidden-yoga-context]]** written. The four apps are downstream of a 25-year Kashmir Shaivism / left-handed Shakta practice (forbidden-yoga.com). This explains the Aghori texturing in [[vedic]], the left-handed phrasing in the v0 Vedic writing guide, the [[apps/unhinged]] thesis, and the [[topics/uncensored-llms]] argument: art and embodied practice have refused censorship for a century, and the work is to extend that refusal into AI.
 - **[[topics/app-soundtrack]]** written. Distinct from [[topics/music-prompts]]: this is the music the user hears while *using* the app, not while receiving a reading. Found a perfect artifact: a 30-minute night on **2026-01-15** where Whispering Breeze and Glass Horizon were both tried and deleted. The commit log preserves the iteration verbatim, including the capitalised DELETE at 03:19. The lyric drafts for the two surviving `one_in_a_billion_*.mp3` themes were not found in the codebase; an open ingest.
-- **[[apps/visionaries-in-exile]]** added as builder context: a 1995-1996 Macromedia Director CD-ROM the builder is currently web-restoring. Out of scope for the prompting brain-map but noted for lineage.
+- `apps/visionaries-in-exile` page added as builder context: a 1995-1996 Macromedia Director CD-ROM the builder is currently web-restoring. [Note 2026-05-08: this page was later deleted. Visionaries in Exile is not part of the iPhone-app suite and should not have been in the apps/ folder. It's a separate art project from 1996; out of scope.]
 - Wiki count: **10 topics + 6 apps + 5 voices = 21 pages.**
 
 ## [2026-05-08] ingest | Per-language LLM dispatch + native generation clarification
@@ -170,7 +170,7 @@ Append-only chronological record. Newest at the bottom.
 - User: *"It goes against traditional Vedic deep-matching systems, and it aims to induce more happiness... I have modified it slightly and updated it for modern times, but I still base my algorithm on it. If you compare this with algorithms from Hinge or Tinder, it is completely different."*
 - Wrote [[topics/matching-philosophy]]. The full Ashtakuta lineage (8 kutas, 36 points, dharma / progeny / family-welfare optimisation), what the modernised engine keeps (chart-first, multi-axis scoring, Vedic substrate, karmic resonance), what it inverts (gender-blind, happiness-oriented, no single threshold, 5-system blend instead of single-system), and the explicit Hinge / Tinder comparison table.
 - Surfaced the **Vamachara reinterpretation** (`cd2e6f95`, 2026-03-12): nadi dosha as *kundalini activation*, Manglik as *Mars / Shakti transmission*, Deva-Rakshasa as *Shiva-Shakti polarity*. Difficult Vedic combinations reframed as intensity-containers, not marriage-blockers. This is where "happiness over duty" gets concrete in code.
-- Linked to existing [[topics/matching-algorithm]], [[decisions/gender-blind-matching]], [[decisions/deterministic-synastry-engine]], [[voices/vedic]], [[apps/seeking-toxic-relationships]] (the precursor that first explored deterministic Vedic-influenced matching weights).
+- Linked to existing [[topics/matching-algorithm]], [[decisions/gender-blind-matching]], [[decisions/deterministic-synastry-engine]], [[voices/vedic]], and [[apps/unhinged]] (the early Swift codebase explored deterministic Vedic-influenced matching weights a month before the canonical Mar-10 pivot).
 - Wiki count: **15 topics + 10 decisions + 8 music + 7 apps + 5 voices = 45 pages.**
 
 ## [2026-05-08] expand | Daily ledger of every matching-algorithm commit
@@ -181,3 +181,13 @@ Append-only chronological record. Newest at the bottom.
 - Surfaced the Vamachara commit `cd2e6f95` (Mar 12, 20:38) as the moment the philosophy lands in code: nadi dosha as kundalini activation, Manglik as Mars / Shakti transmission, Deva-Rakshasa as Shiva-Shakti polarity.
 - Updated [[topics/matching-philosophy]] with a section on "The Happiness" landing in code.
 - **Wiki count: 11 decisions + 15 topics + 8 music + 7 apps + 5 voices = 46 pages.**
+
+## [2026-05-08] correct | Two framing errors caught and fixed
+- User flagged: *"Seeking Toxic Relationships and Unhinged is one app, and Seeking Toxic Relationships was originally the subcategory, the subheadline, so this is wrong. Visionaries in Exile is not part of my iPhone app, so it's a completely different thing that was a CD-ROM in 1996."*
+- Action taken:
+  1. **Merged** the Swift-codebase content from `apps/seeking-toxic-relationships.md` into [[apps/unhinged]] under a new section *"Two codebase incarnations of one app"*. The factual content (the Swift app, its dates, the early synastry weighting, the design doc explicit about being downstream of 1-in-a-Billion) is preserved; only the framing changed (one app with two codebase incarnations, not two separate apps).
+  2. **Deleted** `apps/seeking-toxic-relationships.md`.
+  3. **Deleted** `apps/visionaries-in-exile.md`. Visionaries in Exile is a 1996 CD-ROM, not part of the iPhone-app suite; should never have been in `apps/`.
+  4. **Updated all wikilinks** in [[index]], [[START_HERE]], [[topics/matching-algorithm]], [[topics/matching-philosophy]], [[topics/toxic-to-unhinged-rebrand]], [[decisions/unhinged-import]], [[decisions/deterministic-synastry-engine]], [[decisions/matching-daily-ledger]] to point at [[apps/unhinged]] (with "the early Swift codebase" qualifier where relevant).
+- Acknowledged: the user was right to flag this. Categorisation errors of this kind are exactly the failure mode worth being vigilant about.
+- Wiki count: **11 decisions + 15 topics + 8 music + 5 apps + 5 voices = 44 pages.** (Was 46; -2 for the deleted apps.)

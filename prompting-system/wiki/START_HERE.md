@@ -53,11 +53,9 @@ In methodological order:
 21. [[topics/app-soundtrack|App Soundtrack]], the in-app music (different from user music)
 22. [[topics/january-foundation|The January Foundation]], the 6 weeks before the v2 architectural rewrite
 
-### Then the precursors and ancillary
+### Then the control surface
 
-23. [[apps/seeking-toxic-relationships|Seeking Toxic Relationships]], the Swift predecessor to Unhinged
-24. [[apps/admin-panel|Admin Panel]], the Next.js dispatch dashboard
-25. [[apps/visionaries-in-exile|Visionaries in Exile]], 1995-1996 Macromedia Director CD-ROM (archival builder context)
+23. [[apps/admin-panel|Admin Panel]], the Next.js dispatch dashboard
 
 ### The wiki itself
 

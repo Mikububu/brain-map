@@ -14,7 +14,7 @@ tags: [decision, unhinged, dialectic, fork]
 
 ## The lineage at this moment
 
-This is the second incarnation of the toxic-relationships idea. The first was [[apps/seeking-toxic-relationships]], a Swift / SwiftUI iOS app that ran from 2026-01-19 to 2026-02-12 before being abandoned. **56 days later**, the same concept was rebuilt on a completely different stack (Expo React Native + Hono backend), borrowing [[apps/1-in-a-billion]]'s engine wholesale.
+This is the **second codebase incarnation of one app.** Unhinged was first built as a Swift / SwiftUI iOS app under the GitHub repo `Mikububu/seeking-toxic-relationships` (the original tagline / subheadline), running from 2026-01-19 to 2026-02-12 before that codebase was abandoned. **56 days later**, the same app was rebuilt on a different stack (Expo React Native + Hono backend), borrowing [[apps/1-in-a-billion]]'s engine wholesale, in a new repo `Mikububu/unhinged-toxic`. See [[apps/unhinged]] for both incarnations.
 
 ## What changed
 

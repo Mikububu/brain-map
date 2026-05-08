@@ -14,7 +14,7 @@ The user's question: *"Why did I change the toxic? I removed it because of Apple
 
 | Name | Format | Period | Status |
 |---|---|---|---|
-| **Seeking Toxic Relationships** | Swift / SwiftUI iOS app | 2026-01-19 to 2026-02-12 | Abandoned. See [[apps/seeking-toxic-relationships]] |
+| **Seeking Toxic Relationships** (tagline used as Swift repo name) | Swift / SwiftUI iOS app | 2026-01-19 to 2026-02-12 | Codebase abandoned; same app rebuilt as Unhinged. See [[apps/unhinged]] |
 | **toxic-app** (workspace name) | Expo React Native + Hono backend | 2026-04-08 onward | The codebase folder; never renamed |
 | **UNHINGED** | Public App Store name | 2026-04-08 onward | The user-facing brand |
 

@@ -130,7 +130,7 @@ For the full daily evolution see [[decisions/matching-daily-ledger]].
 - [[decisions/deterministic-synastry-engine]] (the Mar 10 pivot, math-first)
 - [[decisions/gender-blind-matching]] (the modernity move, connection over gender)
 - [[voices/vedic]] (the system this matching is most rooted in)
-- [[apps/seeking-toxic-relationships]] (the Swift predecessor that first explored deterministic Vedic-influenced matching weights)
+- [[apps/unhinged]] (the early Swift codebase) (the Swift predecessor that first explored deterministic Vedic-influenced matching weights)
 
 ## Sources
 

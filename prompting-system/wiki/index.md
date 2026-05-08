@@ -22,8 +22,6 @@ Mind-map of the four-app prompting philosophy. One line per page, grouped by typ
 - [[apps/unhinged|Unhinged]], same engine, opposite voice temperature. Diagnostic noir, Jung × Lynch, "exquisite disaster connoisseur."
 - [[apps/past-life-contracts|Past-Life Contracts]], Vedic-only. Two souls, one unfinished contract. Story over utility.
 - [[apps/families-app|Families-app]], relational scope. Family unit as single living organism. Empathy anchors. Sexual block disabled.
-- [[apps/seeking-toxic-relationships|Seeking Toxic Relationships]] (predecessor to Unhinged), Swift iOS app, 2026-01 to 2026-04. Vedic-as-matching. Abandoned and rebuilt as Unhinged.
-- [[apps/visionaries-in-exile|Visionaries in Exile]] (archival), 1995-1996 Macromedia Director CD-ROM, currently being 1:1 web-restored. Out of scope for the prompting brain-map; included as builder context.
 - [[apps/admin-panel|Admin Panel]] (control surface), Next.js dashboard. The dispatch table, prompt editor, user / job / subscription / store-publishing console for all four apps.
 
 ## Decisions

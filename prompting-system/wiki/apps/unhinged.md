@@ -46,9 +46,49 @@ Same five voices as [[apps/1-in-a-billion]], but with the noir override layered 
 - Backend infrastructure differs in: bundle prefix (`unhinged_toxic_v1_`), Pricing-resume step missing, sequential audio (vs parallelised in canonical)
 - GitHub repo: `Mikububu/unhinged-toxic` (created 2026-04-08)
 
-## The predecessor: Seeking Toxic Relationships
+## Two codebase incarnations of one app
 
-Unhinged is the **second incarnation** of the toxic-relationship-app idea. The first was [[apps/seeking-toxic-relationships]], a pure Swift / SwiftUI iOS app created on **2026-01-19** (`Mikububu/seeking-toxic-relationships`). The user explored Vedic-as-matching-system there for ~2.5 months before abandoning the Swift codebase entirely and rebuilding the same concept inside [[apps/1-in-a-billion]]'s engine on April 8. What survived: the *concept* (Vedic astrology + dark / toxic relationship patterns). What was thrown away: the entire codebase.
+Unhinged is **one app** with two codebase incarnations. *"Seeking Toxic Relationships"* was the original tagline / subheadline, used as the GitHub repo name in the early Swift era; it was never a separate app.
+
+### Early Swift codebase (2026-01-19 to 2026-02-12)
+
+The first incarnation was a pure Swift / SwiftUI iOS app at `Mikububu/seeking-toxic-relationships` (GitHub repo created 2026-01-18). Tinder-style swipe interface, neobrutalist aesthetic (#000000 black, #FF453A iOS red, "visual aggression 0.7"), local `MockMatchService`. The design doc was explicit that the app *"must read and consume all relevant Markdown files from the One in a Billion folder as read-only input"* and *"must not contain its own competing doctrine"*; from day one, this was conceived as a toxicity-amplifying lens on [[apps/1-in-a-billion]]'s engine.
+
+The unbuilt `new-arch/` monorepo (committed at launch but never deployed) coded the **earliest deterministic synastry weighting** in the user's body of work:
+
+| Factor | Weight |
+|---|---|
+| Rahu Influence | 25% |
+| Saturn Endurance | 15% |
+| Mars Aggression | 20% |
+| 8th House Intensity | 20% |
+| 12th House Loss | 10% |
+| Shared Nakshatras | 5% |
+| Lunar Compatibility | 5% |
+
+This logic predates the canonical engine's Mar-10 deterministic-synastry pivot by a month. See [[topics/matching-algorithm]].
+
+Last Swift commit: **2026-02-12** (`43d2564`, *"ci(v2): add single GitHub Actions workflow for V2"*). 56-day silence followed.
+
+### React Native codebase (2026-04-08 onward)
+
+On 2026-04-08 the app was rebuilt on a different stack (Expo React Native + Hono backend), borrowing [[apps/1-in-a-billion]]'s engine wholesale. New GitHub repo: `Mikububu/unhinged-toxic`. Most prompt files byte-identical to canonical at import time. The current Unhinged.
+
+### What carried across the rewrite
+
+- The Vedic-as-toxic-matching philosophy
+- The neobrutalist design language
+- The "toxicity scoring" terminology
+- The narrative-driven *fit cards* / *watchouts* framework
+- The "first move" suggestions framing
+
+### What was abandoned
+
+- The Swift / SwiftUI iOS codebase entirely
+- The local `MockMatchService` and in-app chart calculation
+- The `new-arch/` monorepo structure (unused; never deployed)
+- Free-swipe-limit subscription model (replaced by reading-based subscription)
+- Multi-screen onboarding (compacted)
 
 ## What it adds to canonical
 

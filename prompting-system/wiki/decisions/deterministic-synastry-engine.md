@@ -48,12 +48,12 @@ Matching is unforgiving. Wrong advice ruins lives. *32 / 100 is a real answer, n
 
 Within 24 hours (March 11), four parallel engines were added: Vedic, Human Design, Gene Keys, Kabbalah. The verdict meta-engine (`verdictSynastryEngine.ts`) blends all five into 16 verdict categories. The whole "code → prompt symbiosis" pattern dates from here: Supabase + workers + LLM-as-narrator-of-computed-truth.
 
-The principle pre-dates this commit: see [[apps/seeking-toxic-relationships]], whose Vedic toxicity engine (Rahu 25%, Saturn 15%, Mars 20%, etc.) introduced deterministic weighting in January 2026, before being abandoned with the Swift codebase.
+The principle pre-dates this commit: see [[apps/unhinged]] (the early Swift codebase), whose Vedic toxicity engine (Rahu 25%, Saturn 15%, Mars 20%, etc.) introduced deterministic weighting in January 2026, before being abandoned with the Swift codebase.
 
 ## Connections
 
 - [[topics/matching-algorithm]]
-- [[apps/seeking-toxic-relationships]] (the conceptual ancestor)
+- [[apps/unhinged]] (the early Swift codebase) (the conceptual ancestor)
 - [[apps/admin-panel]] (where dispatch later became configurable)
 - [[voices/western]] (the synastry side of Western)
 
