@@ -127,3 +127,18 @@ Append-only chronological record. Newest at the bottom.
 - Also surveyed `~/Desktop/Desktop/other_projects/`. Notable repos beyond what's already captured: `aprils-spielzeugkasten` (uncensored image, already noted), `Uncensored` (ComfyUI, already noted), `whatsapp` and `fy-Website` (Forbidden Yoga family, brief reference in [[topics/forbidden-yoga-context]]). Other_projects has many art / personal projects (Andhakaara Path to Power, April portfolio, etc.) outside the prompting brain-map; not ingested.
 - Updated [[apps/unhinged]] to surface the rebrand finding.
 - **Wiki count: 14 topics + 7 apps + 5 voices = 26 pages.**
+
+## [2026-05-08] expand | First batch of decisions/ pages
+- 9 pivotal commits expanded into their own pages, the daily-ledger layer the user asked for next.
+- [[decisions/incarnation-zone-contract]] (2026-02-16, `f05f2c27`), the foundational rule
+- [[decisions/five-system-architecture]] (2026-02-18, `af0553d2`), 5 narrator archetypes locked in
+- [[decisions/deterministic-synastry-engine]] (2026-03-10, `fa8a327c`), Charmaine & Mike pivot
+- [[decisions/ghost-writer-reframe]] (2026-03-21, `cf2e3d3b`), Layer 3 as literature
+- [[decisions/hellenistic-merge]] (2026-03-21, `843f4989`), "malefics are malefic"
+- [[decisions/native-script-voice-anchors]] (2026-03-28, `a6065909`), Osho/Pelevin/Yu Hua
+- [[decisions/unhinged-import]] (2026-04-08, `6b4363e`), the dialectical fork born
+- [[decisions/families-empathy-fork]] (2026-04-12, `de30f75`), Sebald/Ernaux replace Miller/Jelinek; sexual block disabled
+- [[decisions/toxic-to-diagnostic-noir]] (2026-04-15, `3e7eb2a`), the deeper Apple-driven shift
+- Index updated with a new `## Decisions` section.
+- Wiki count: **9 decisions + 14 topics + 7 apps + 5 voices = 35 pages.**
+- More decisions can follow (the timelines in voice / app / topic pages have many more rows worth expanding); this batch covers the most philosophical inflection points.

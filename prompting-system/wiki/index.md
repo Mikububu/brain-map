@@ -26,6 +26,19 @@ Mind-map of the four-app prompting philosophy. One line per page, grouped by typ
 - [[apps/visionaries-in-exile|Visionaries in Exile]] (archival), 1995-1996 Macromedia Director CD-ROM, currently being 1:1 web-restored. Out of scope for the prompting brain-map; included as builder context.
 - [[apps/admin-panel|Admin Panel]] (control surface), Next.js dashboard. The dispatch table, prompt editor, user / job / subscription / store-publishing console for all four apps.
 
+## Decisions
+Pivotal commits, expanded into their own pages.
+
+- [[decisions/incarnation-zone-contract|Incarnation Zone Contract]] (2026-02-16, `f05f2c27`), the foundational legal split between astrology-as-vocab and astrology-as-behaviour
+- [[decisions/five-system-architecture|Five-System Architecture]] (2026-02-18, `af0553d2`), the day five distinct narrator consciousnesses were locked in
+- [[decisions/deterministic-synastry-engine|Deterministic Synastry Engine]] (2026-03-10, `fa8a327c`), Charmaine & Mike, math speaks first
+- [[decisions/ghost-writer-reframe|Ghost-Writer Reframe]] (2026-03-21, `cf2e3d3b`), Layer 3 as "the masterpiece you never finished"
+- [[decisions/hellenistic-merge|Hellenistic Merge]] (2026-03-21, `843f4989`), "Malefics are malefic"
+- [[decisions/native-script-voice-anchors|Native-Script Voice Anchors]] (2026-03-28, `a6065909`), Hindi → Osho, Russian → Pelevin, Mandarin → Yu Hua
+- [[decisions/unhinged-import|Unhinged Import]] (2026-04-08, `6b4363e`), the dialectical fork is born
+- [[decisions/families-empathy-fork|Families Empathy Fork]] (2026-04-12, `de30f75`), sexual mechanism block disabled, Robinson / Sebald / Ernaux replace Miller / Jelinek
+- [[decisions/toxic-to-diagnostic-noir|Toxic to Diagnostic Noir]] (2026-04-15, `3e7eb2a`), the prompt tone Apple-driven rebrand
+
 ## Topics
 - [[topics/january-foundation|The January Foundation]], the 6 weeks before the v2 rewrite. The engine that v2 was built ON, not FROM.
 - [[topics/the-engine|The Engine]], the shared substrate. Five voices, three layers, eleven languages.
