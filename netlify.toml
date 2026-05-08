@@ -1,0 +1,9 @@
+# Netlify deployment config for the Quartz-built brain-map site.
+# Connect this repo on https://app.netlify.com/start and the build will run automatically.
+
+[build]
+  command = "npx quartz build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "22"

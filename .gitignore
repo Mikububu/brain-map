@@ -10,3 +10,8 @@ prompting-system/raw/*
 
 # but keep the README placeholders so the folder structure shows up in the repo
 !**/raw/README.md
+
+# Quartz build artifacts (generated, not committed)
+node_modules/
+public/
+.quartz-cache/
