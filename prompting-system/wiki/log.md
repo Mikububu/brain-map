@@ -142,3 +142,17 @@ Append-only chronological record. Newest at the bottom.
 - Index updated with a new `## Decisions` section.
 - Wiki count: **9 decisions + 14 topics + 7 apps + 5 voices = 35 pages.**
 - More decisions can follow (the timelines in voice / app / topic pages have many more rows worth expanding); this batch covers the most philosophical inflection points.
+
+## [2026-05-08] expand | Full music sub-section (the "PhD-worth" deep walk)
+- User noted the existing [[topics/music-prompts]] was undercooked. *"Thousands of modifications, worth a PhD in itself."* Subagent walked all music-related prompts across all four repos.
+- Built a new `music/` folder with 8 pages:
+  - [[music|hub]] (overview + four-layer pipeline)
+  - [[music/western]], [[music/vedic]], [[music/kabbalah]], [[music/gene-keys]], [[music/human-design]] (per voice)
+  - [[music/final-verdict]] (the meta-layer Dido + Eminem synthesis)
+  - [[music/philosophy]] (cross-cutting principles, the weighted-crossover paradox)
+- Surfaced the **March 31 night**: 27 commits in 23 minutes (00:14 to 00:37 UTC), most volatile in [[music/gene-keys|Gene Keys]] (cultural inputs added then removed in 1 minute; artist list stripped then restored in 5 minutes; Radiohead pruned individually) and [[music/final-verdict|Final Verdict]] (six commits in 4 minutes paring the verdict down).
+- Captured the **HARD STYLE LOCK** in [[music/vedic|Vedic]]: the prompt rejects its own output if Anoushka Shankar's name and bansuri breathing space don't appear in the MiniMax brief.
+- Captured the **50/25/25 weighted-crossover rule** as the structural innovation: not a blur, a deliberate hierarchy with ratios. Centre absorbs secondary colours without losing identity.
+- Confirmed [[apps/past-life-contracts]] has no music; instead uses `audioNarrationPass.ts` for TTS-optimised spoken narrative (5-7 paragraphs, 500-700 words).
+- The lyric drafts for `one_in_a_billion_*.mp3` remain elusive, not in commits or text history. They live elsewhere (deleted branches, drafts folder, or external conversations).
+- Wiki count: **8 music + 9 decisions + 14 topics + 7 apps + 5 voices = 43 pages.**

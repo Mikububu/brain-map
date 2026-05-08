@@ -39,6 +39,16 @@ Pivotal commits, expanded into their own pages.
 - [[decisions/families-empathy-fork|Families Empathy Fork]] (2026-04-12, `de30f75`), sexual mechanism block disabled, Robinson / Sebald / Ernaux replace Miller / Jelinek
 - [[decisions/toxic-to-diagnostic-noir|Toxic to Diagnostic Noir]] (2026-04-15, `3e7eb2a`), the prompt tone Apple-driven rebrand
 
+## Music (the new wing, deep-walked)
+- [[music|Music hub]], the four-layer pipeline + cross-cutting overview
+- [[music/western|Western Music]], Sienna Rose indie-pop introspection
+- [[music/vedic|Vedic Music]], Anoushka Shankar 2026, fate made audible
+- [[music/kabbalah|Kabbalah Music]], Dead Can Dance darkwave, sacred rupture
+- [[music/gene-keys|Gene Keys Music]], random eclectic, 27 commits in 23 minutes
+- [[music/human-design|Human Design Music]], Kamasi & Esperanza jazz duet
+- [[music/final-verdict|Final Verdict Music]], Dido + Eminem stadium pop
+- [[music/philosophy|Music Philosophy]], the weighted-crossover paradox + cross-cutting principles
+
 ## Topics
 - [[topics/january-foundation|The January Foundation]], the 6 weeks before the v2 rewrite. The engine that v2 was built ON, not FROM.
 - [[topics/the-engine|The Engine]], the shared substrate. Five voices, three layers, eleven languages.
