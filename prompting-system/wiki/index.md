@@ -66,8 +66,11 @@ Pivotal commits, expanded into their own pages.
 - [[topics/forbidden-yoga-context|Forbidden Yoga (Parent Brand)]], the 25-year tantric-retreat practice the four apps are downstream of. Kashmir Shaivism, left-handed Shakta lineage.
 - [[topics/app-soundtrack|App Soundtrack]], the in-app music (distinct from user-reading music). The 30-minute Jan 15 night where Whispering Breeze and Glass Horizon were tried and deleted.
 
-## Decisions
-_None yet._
+## Voice Archives (raw source, no interpretation)
+The actual file content and diffs, verbatim from git. Use these when writing long documents.
 
-## Experiments
-_None yet._
+- [[vedic-archive/index|Vedic Archive]], 19 pages
+- [[western-archive/index|Western Archive]], 13 pages (Western lives in TypeScript, structurally different)
+- [[kabbalah-archive/index|Kabbalah Archive]], 15 pages
+- [[gene-keys-archive/index|Gene Keys Archive]], 19 pages (includes the 8-commits-in-23-minutes night of March 31)
+- [[human-design-archive/index|Human Design Archive]], 14 pages
