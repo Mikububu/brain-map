@@ -103,7 +103,7 @@ Append-only chronological record. Newest at the bottom.
 
 ## [2026-05-08] auto-run | Admin-Panel walk + qwen3 walk + 2nd-pass voice corrections + lint
 - User authorised auto-run until exhaustion.
-- **Admin-Panel** walked. Wrote [[apps/admin-panel]]. Surfaced the **13-model palette** (claude, opus, qwen-plus, deepseek, deepseek-reasoner, kimi, glm-5-turbo, gpt-5.1, openai-direct, mistral-medium, mistral-large, qwen-erotic, qwen-72b-erotic) and the **4 control layers** (active_paid_llm_provider, advanced_llm_routing matrix, final_verdict_llm_provider, layer2_llm_provider) stored in Supabase `api_keys` table.
+- **Admin-Panel** walked. Wrote [[topics/admin-panel]]. Surfaced the **13-model palette** (claude, opus, qwen-plus, deepseek, deepseek-reasoner, kimi, glm-5-turbo, gpt-5.1, openai-direct, mistral-medium, mistral-large, qwen-erotic, qwen-72b-erotic) and the **4 control layers** (active_paid_llm_provider, advanced_llm_routing matrix, final_verdict_llm_provider, layer2_llm_provider) stored in Supabase `api_keys` table.
 - **qwen3 repos** walked (qwen3-tts-service + qwen3-llm-serverless). Wrote [[topics/qwen3-research]]. Major reframe: **the RunPod self-hosted Qwen3 work succeeded and is live as a fallback in production** (Qwen3-30B-A3B and Qwen2.5-72B-Erotic), contradicting the user's stated experience that *"RunPod didn't work out."* The phrase meant *"didn't become my daily driver,"* not *"never worked."* The actual stack is three-tier: Sonnet (primary) → OpenRouter+DeepSeek (primary uncensored) → RunPod-hosted Qwen3 (fallback).
 - Updated [[topics/uncensored-llms]] and [[topics/per-language-llms]] with the corrected three-tier picture and the 13-model palette.
 - Updated memory file with the corrected reconciliation. Future sessions will know not to tell the user "RunPod failed."
@@ -115,7 +115,7 @@ Append-only chronological record. Newest at the bottom.
 - 24 pages. Foundation, voices, apps, and topics all mapped.
 - The two biggest reframes from this session:
   1. **The v2 architectural rewrite was a voice-architecture overhaul on top of an existing engine** (all 5 systems existed Jan 7 as TypeScript modules; the five distinct narrator archetypes were the v2 innovation). [[topics/january-foundation]].
-  2. **The uncensored-LLM stack is three-tier, and RunPod actually works** as a fallback. [[topics/uncensored-llms]], [[topics/qwen3-research]], [[apps/admin-panel]].
+  2. **The uncensored-LLM stack is three-tier, and RunPod actually works** as a fallback. [[topics/uncensored-llms]], [[topics/qwen3-research]], [[topics/admin-panel]].
 - All [[topics/january-foundation|early-history corrections]] propagated to voice pages.
 - Memory updated with the accurate provider stack so future sessions don't re-introduce the inaccuracies.
 - The wiki has stopped growing organically. Further additions need a specific trigger from the user (a new topic to explore, a row to expand into a `decisions/<slug>` page, a new corpus to ingest).

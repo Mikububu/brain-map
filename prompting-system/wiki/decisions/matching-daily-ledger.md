@@ -187,7 +187,7 @@ The day "The Happiness" got added as a 9th deterministic category, AND Hellenist
 - `650073c9` *15:15*
 - `97323cdc` *18:41* `Clean Layer2/Layer3 prompt motifs and sync migration seeds`
 - `ce3d98ee` *19:01*
-- `ba77e905` *19:15* `feat(llm): add final verdict provider override routing`. The verdict layer can now use a different model. Foundation for the [[apps/admin-panel|admin-panel]] dispatch table
+- `ba77e905` *19:15* `feat(llm): add final verdict provider override routing`. The verdict layer can now use a different model. Foundation for the [[topics/admin-panel|admin-panel]] dispatch table
 - `d06ec178` *21:58*
 
 ### 2026-03-27

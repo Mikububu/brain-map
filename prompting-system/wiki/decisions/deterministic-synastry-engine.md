@@ -54,7 +54,7 @@ The principle pre-dates this commit: see [[apps/unhinged]] (the early Swift code
 
 - [[topics/matching-algorithm]]
 - [[apps/unhinged]] (the early Swift codebase) (the conceptual ancestor)
-- [[apps/admin-panel]] (where dispatch later became configurable)
+- [[topics/admin-panel]] (where dispatch later became configurable)
 - [[voices/western]] (the synastry side of Western)
 
 ## Sources

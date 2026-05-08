@@ -27,7 +27,7 @@ A RunPod serverless handler running **Qwen3-30B-A3B AWQ-Int4** quantized inferen
 
 **Critical insight from the diffs**: there was a multi-day debugging battle (March 30 to April 1) figuring out the vLLM V0/V1 engine architecture. The "nuclear" commit `53b8ba5` (*"VLLM_USE_V1=0, fall back to V0 engine, no EngineCore at all"*) is the moment the problem was solved.
 
-The handler is OpenAI-message-compatible. From [[apps/1-in-a-billion]]'s backend, this Qwen3 service is called as `qwen-erotic` (30B) or `qwen-72b-erotic` (72B), both selectable in the [[apps/admin-panel|admin panel]].
+The handler is OpenAI-message-compatible. From [[apps/1-in-a-billion]]'s backend, this Qwen3 service is called as `qwen-erotic` (30B) or `qwen-72b-erotic` (72B), both selectable in the [[topics/admin-panel|admin panel]].
 
 ## qwen3-tts-service
 
@@ -79,7 +79,7 @@ The actual three-tier uncensored stack:
 
 - [[topics/uncensored-llms]] (the broader research thread; this is its self-hosted limb)
 - [[topics/per-language-llms]] (qwen-erotic and qwen-72b-erotic appear in the dispatch palette)
-- [[apps/admin-panel]] (where these models are switched in)
+- [[topics/admin-panel]] (where these models are switched in)
 - [[apps/1-in-a-billion]] (where the integration lives, 126 references in the codebase)
 
 ## Sources

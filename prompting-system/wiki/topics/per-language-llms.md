@@ -36,7 +36,7 @@ Each option changes the texture differently. The "right" model for Japanese is t
 
 > "For now, I mostly use Sonnet, but I can change all of this in my admin panel, and I'm open to further refinements."
 
-The [[apps/admin-panel|admin panel]] declares **13 dispatchable models** and **4 control layers**.
+The [[topics/admin-panel|admin panel]] declares **13 dispatchable models** and **4 control layers**.
 
 ### The 13-model palette
 

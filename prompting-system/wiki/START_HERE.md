@@ -55,7 +55,7 @@ In methodological order:
 
 ### Then the control surface
 
-23. [[apps/admin-panel|Admin Panel]], the Next.js dispatch dashboard
+23. [[topics/admin-panel|Admin Panel]], the Next.js dispatch dashboard
 
 ### The wiki itself
 

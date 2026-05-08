@@ -48,7 +48,7 @@ The deep matching engine inherits:
 | Heterosexual, gendered (man / woman pairing) | **[[decisions/gender-blind-matching\|Gender-blind]]** |
 | Optimises for longevity, progeny, dharma | **Optimises for happiness, connection, evolution** |
 | 36-point scale, 18+ acceptable | 0-100 spread per category, no single threshold |
-| 8 kutas, fixed weighting | 6 deterministic categories per system + 5-system verdict aggregation, configurable weighting via [[apps/admin-panel\|admin panel]] |
+| 8 kutas, fixed weighting | 6 deterministic categories per system + 5-system verdict aggregation, configurable weighting via [[topics/admin-panel\|admin panel]] |
 | Family welfare central | Individual evolution central |
 | One system (Jyotish) | Five systems blended (Western + Vedic + HD + Gene Keys + Kabbalah) |
 
