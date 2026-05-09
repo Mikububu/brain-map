@@ -1,5 +1,5 @@
 ---
-title: 11 - Current style-guide-insert-human-design-voice.md
+title: "11 - Current style-guide-insert-human-design-voice.md"
 type: archive
 date: 2026-05-08
 ---

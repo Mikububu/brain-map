@@ -1,5 +1,5 @@
 ---
-title: 07-mar-31-synastry-minimal
+title: "07-mar-31-synastry-minimal"
 type: archive
 date: 2026-03-31
 commit: 83509ae6

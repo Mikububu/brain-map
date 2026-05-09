@@ -1,5 +1,5 @@
 ---
-title: 06-mar-31-remove-cutup
+title: "06-mar-31-remove-cutup"
 type: archive
 date: 2026-03-31
 commit: b149faa6

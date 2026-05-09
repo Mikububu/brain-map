@@ -1,5 +1,5 @@
 ---
-title: 12 - Current style-guide-insert-kabbalah-voice.md
+title: "12 - Current style-guide-insert-kabbalah-voice.md"
 type: archive
 date: 2026-05-08
 ---

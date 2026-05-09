@@ -1,5 +1,5 @@
 ---
-title: 09-mar-31-remove-cultural
+title: "09-mar-31-remove-cultural"
 type: archive
 date: 2026-03-31
 commit: 774a2212

@@ -1,5 +1,5 @@
 ---
-title: 01 — vedic-individual.md (first version, Feb 16)
+title: "01 — vedic-individual.md (first version, Feb 16)"
 type: archive
 date: 2026-02-16
 commit: 4cba79c2

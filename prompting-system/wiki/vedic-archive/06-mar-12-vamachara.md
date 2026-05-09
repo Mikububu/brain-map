@@ -1,5 +1,5 @@
 ---
-title: 06-mar-12-vamachara
+title: "06-mar-12-vamachara"
 type: archive
 date: 2026-03-12
 commit: cd2e6f95

@@ -1,5 +1,5 @@
 ---
-title: 08 - Hebrew reverted to multi-language (Mar 31)
+title: "08 - Hebrew reverted to multi-language (Mar 31)"
 type: archive
 date: 2026-03-31
 commit: de8a0cb0

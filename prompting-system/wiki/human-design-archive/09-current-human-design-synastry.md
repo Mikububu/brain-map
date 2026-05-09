@@ -1,5 +1,5 @@
 ---
-title: 09 - Current human-design-synastry.md
+title: "09 - Current human-design-synastry.md"
 type: archive
 date: 2026-05-08
 ---

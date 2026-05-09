@@ -1,5 +1,5 @@
 ---
-title: 14 - Current style-guide-insert-vedic-voice.md
+title: "14 - Current style-guide-insert-vedic-voice.md"
 type: archive
 date: 2026-05-08
 ---

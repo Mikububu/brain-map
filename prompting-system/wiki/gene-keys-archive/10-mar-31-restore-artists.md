@@ -1,5 +1,5 @@
 ---
-title: 10-mar-31-restore-artists
+title: "10-mar-31-restore-artists"
 type: archive
 date: 2026-03-31
 commit: 1d5b4955

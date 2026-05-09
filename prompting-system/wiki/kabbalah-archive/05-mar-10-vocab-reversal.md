@@ -1,5 +1,5 @@
 ---
-title: 05 - Vocabulary reversal (Mar 10), Kabbalah-related diff only
+title: "05 - Vocabulary reversal (Mar 10), Kabbalah-related diff only"
 type: archive
 date: 2026-03-10
 commit: c1abc2de

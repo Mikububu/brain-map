@@ -1,5 +1,5 @@
 ---
-title: 08-mar-27-psychosexual-mandate
+title: "08-mar-27-psychosexual-mandate"
 type: archive
 date: 2026-03-27
 commit: edeb0c62

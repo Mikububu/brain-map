@@ -1,5 +1,5 @@
 ---
-title: 08 - Current human-design-individual.md
+title: "08 - Current human-design-individual.md"
 type: archive
 date: 2026-05-08
 ---

@@ -1,5 +1,5 @@
 ---
-title: 06 - Voice guide refinement (Mar 27)
+title: "06 - Voice guide refinement (Mar 27)"
 type: archive
 date: 2026-03-27
 commit: e2458187

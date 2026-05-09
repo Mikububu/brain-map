@@ -1,5 +1,5 @@
 ---
-title: 03 - kabbalah-individual-incarnation.md (Feb 18 birth)
+title: "03 - kabbalah-individual-incarnation.md (Feb 18 birth)"
 type: archive
 date: 2026-02-18
 commit: af0553d2

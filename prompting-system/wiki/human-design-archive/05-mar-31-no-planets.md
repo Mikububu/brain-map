@@ -1,5 +1,5 @@
 ---
-title: 05 - HD synastry: no planets, this is HD not astrology (Mar 31)
+title: "05 - HD synastry: no planets, this is HD not astrology (Mar 31)"
 type: archive
 date: 2026-03-31
 commit: ca2114d8

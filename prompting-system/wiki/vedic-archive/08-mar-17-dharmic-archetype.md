@@ -1,5 +1,5 @@
 ---
-title: 08-mar-17-dharmic-archetype
+title: "08-mar-17-dharmic-archetype"
 type: archive
 date: 2026-03-17
 commit: 50be6c07

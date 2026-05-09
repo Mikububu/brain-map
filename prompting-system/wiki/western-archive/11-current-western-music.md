@@ -1,5 +1,5 @@
 ---
-title: 11 - Current western-music-prompt.md
+title: "11 - Current western-music-prompt.md"
 type: archive
 date: 2026-05-08
 ---

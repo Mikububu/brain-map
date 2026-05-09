@@ -1,5 +1,5 @@
 ---
-title: 12 - Current western-overlay-music-prompt.md (synastry music)
+title: "12 - Current western-overlay-music-prompt.md (synastry music)"
 type: archive
 date: 2026-05-08
 ---

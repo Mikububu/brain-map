@@ -1,5 +1,5 @@
 ---
-title: 09 - Current kabbalah-individual.md
+title: "09 - Current kabbalah-individual.md"
 type: archive
 date: 2026-05-08
 ---

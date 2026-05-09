@@ -1,5 +1,5 @@
 ---
-title: 07 - Hebrew-only music experiment (Mar 31)
+title: "07 - Hebrew-only music experiment (Mar 31)"
 type: archive
 date: 2026-03-31
 commit: 25da3795

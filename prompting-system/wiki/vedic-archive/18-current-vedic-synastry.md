@@ -1,5 +1,5 @@
 ---
-title: 18 - Current vedic-synastry.md
+title: "18 - Current vedic-synastry.md"
 type: archive
 date: 2026-05-08
 ---

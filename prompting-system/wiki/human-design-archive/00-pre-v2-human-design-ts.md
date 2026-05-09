@@ -1,5 +1,5 @@
 ---
-title: 00 - Pre-v2 human-design.ts
+title: "00 - Pre-v2 human-design.ts"
 type: archive
 date: 2026-01-07
 commit: f486164f

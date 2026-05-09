@@ -1,5 +1,5 @@
 ---
-title: 13 - Current kabbalah-music-prompt.md
+title: "13 - Current kabbalah-music-prompt.md"
 type: archive
 date: 2026-05-08
 ---

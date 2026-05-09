@@ -1,5 +1,5 @@
 ---
-title: 16 - Current vedic-music-prompt.md
+title: "16 - Current vedic-music-prompt.md"
 type: archive
 date: 2026-05-08
 ---

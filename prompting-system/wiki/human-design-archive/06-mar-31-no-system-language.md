@@ -1,5 +1,5 @@
 ---
-title: 06 - HD synastry: no system language, only drama of 2 souls (Mar 31)
+title: "06 - HD synastry: no system language, only drama of 2 souls (Mar 31)"
 type: archive
 date: 2026-03-31
 commit: d6d8a01c

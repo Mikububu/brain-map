@@ -1,5 +1,5 @@
 ---
-title: 17 - Current gene-keys-music-prompt.md
+title: "17 - Current gene-keys-music-prompt.md"
 type: archive
 date: 2026-05-08
 ---

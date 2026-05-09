@@ -1,5 +1,5 @@
 ---
-title: 00 — Pre-v2 Vedic (v0 TypeScript module)
+title: "00 — Pre-v2 Vedic (v0 TypeScript module)"
 type: archive
 date: 2026-01-07
 commit: f486164f

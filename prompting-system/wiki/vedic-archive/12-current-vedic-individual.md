@@ -1,5 +1,5 @@
 ---
-title: 12 - Current vedic-individual.md
+title: "12 - Current vedic-individual.md"
 type: archive
 date: 2026-05-08
 ---

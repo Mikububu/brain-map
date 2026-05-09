@@ -1,5 +1,5 @@
 ---
-title: 05-mar-31-strip-essentials
+title: "05-mar-31-strip-essentials"
 type: archive
 date: 2026-03-31
 commit: 43af4f68

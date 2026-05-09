@@ -1,5 +1,5 @@
 ---
-title: 13 - Current human-design-overlay-music-prompt.md
+title: "13 - Current human-design-overlay-music-prompt.md"
 type: archive
 date: 2026-05-08
 ---

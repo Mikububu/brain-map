@@ -1,5 +1,5 @@
 ---
-title: 04 — style-guide-insert-vedic-voice.md (birth, Feb 18)
+title: "04 — style-guide-insert-vedic-voice.md (birth, Feb 18)"
 type: archive
 date: 2026-02-18
 commit: af0553d2

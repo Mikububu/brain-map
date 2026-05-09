@@ -1,5 +1,5 @@
 ---
-title: 08-mar-31-add-cultural
+title: "08-mar-31-add-cultural"
 type: archive
 date: 2026-03-31
 commit: 77f9e6e5

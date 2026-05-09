@@ -1,5 +1,5 @@
 ---
-title: 10 - Current kabbalah-synastry.md
+title: "10 - Current kabbalah-synastry.md"
 type: archive
 date: 2026-05-08
 ---

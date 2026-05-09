@@ -1,5 +1,5 @@
 ---
-title: 09-mar-30-music-reverted
+title: "09-mar-30-music-reverted"
 type: archive
 date: 2026-03-30
 commit: 48ff68f2

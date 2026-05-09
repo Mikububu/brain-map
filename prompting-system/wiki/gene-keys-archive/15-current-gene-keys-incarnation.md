@@ -1,5 +1,5 @@
 ---
-title: 15 - Current gene-keys-individual-incarnation.md
+title: "15 - Current gene-keys-individual-incarnation.md"
 type: archive
 date: 2026-05-08
 ---

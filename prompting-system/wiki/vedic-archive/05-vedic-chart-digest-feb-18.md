@@ -1,5 +1,5 @@
 ---
-title: 05 — vedic-chart-digest-v1.md (birth, Feb 18)
+title: "05 — vedic-chart-digest-v1.md (birth, Feb 18)"
 type: archive
 date: 2026-02-18
 commit: af0553d2

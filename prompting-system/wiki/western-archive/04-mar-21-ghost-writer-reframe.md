@@ -1,5 +1,5 @@
 ---
-title: 07-mar-21-ghost-writer-reframe
+title: "07-mar-21-ghost-writer-reframe"
 type: archive
 date: 2026-03-21
 commit: cf2e3d3b

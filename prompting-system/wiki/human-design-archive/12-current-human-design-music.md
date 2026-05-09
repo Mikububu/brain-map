@@ -1,5 +1,5 @@
 ---
-title: 12 - Current human-design-music-prompt.md
+title: "12 - Current human-design-music-prompt.md"
 type: archive
 date: 2026-05-08
 ---

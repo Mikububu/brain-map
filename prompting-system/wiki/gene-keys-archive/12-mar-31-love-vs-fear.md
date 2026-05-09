@@ -1,5 +1,5 @@
 ---
-title: 12-mar-31-love-vs-fear
+title: "12-mar-31-love-vs-fear"
 type: archive
 date: 2026-03-31
 commit: 620246ac

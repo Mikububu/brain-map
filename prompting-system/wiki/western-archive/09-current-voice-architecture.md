@@ -1,5 +1,5 @@
 ---
-title: 09 - Current voice-architecture-all-systems.md
+title: "09 - Current voice-architecture-all-systems.md"
 type: archive
 date: 2026-05-08
 ---

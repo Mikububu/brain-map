@@ -1,5 +1,5 @@
 ---
-title: 03 — vedic-individual-incarnation.md (birth, Feb 18)
+title: "03 — vedic-individual-incarnation.md (birth, Feb 18)"
 type: archive
 date: 2026-02-18
 commit: af0553d2

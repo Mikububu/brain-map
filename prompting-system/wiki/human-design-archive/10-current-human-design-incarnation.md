@@ -1,5 +1,5 @@
 ---
-title: 10 - Current human-design-individual-incarnation.md
+title: "10 - Current human-design-individual-incarnation.md"
 type: archive
 date: 2026-05-08
 ---

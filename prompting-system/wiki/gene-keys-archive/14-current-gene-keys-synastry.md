@@ -1,5 +1,5 @@
 ---
-title: 14 - Current gene-keys-synastry.md
+title: "14 - Current gene-keys-synastry.md"
 type: archive
 date: 2026-05-08
 ---

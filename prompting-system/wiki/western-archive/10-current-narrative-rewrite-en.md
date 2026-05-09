@@ -1,5 +1,5 @@
 ---
-title: 10 - Current narrative-rewrite-en.md (Layer 3, Western reads through this)
+title: "10 - Current narrative-rewrite-en.md (Layer 3, Western reads through this)"
 type: archive
 date: 2026-05-08
 ---

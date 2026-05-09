@@ -1,5 +1,5 @@
 ---
-title: 13 - Current gene-keys-individual.md
+title: "13 - Current gene-keys-individual.md"
 type: archive
 date: 2026-05-08
 ---

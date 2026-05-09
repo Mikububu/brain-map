@@ -1,5 +1,5 @@
 ---
-title: 13 - Current vedic-individual-incarnation.md
+title: "13 - Current vedic-individual-incarnation.md"
 type: archive
 date: 2026-05-08
 ---

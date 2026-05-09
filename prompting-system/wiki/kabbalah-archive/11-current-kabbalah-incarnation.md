@@ -1,5 +1,5 @@
 ---
-title: 11 - Current kabbalah-individual-incarnation.md
+title: "11 - Current kabbalah-individual-incarnation.md"
 type: archive
 date: 2026-05-08
 ---

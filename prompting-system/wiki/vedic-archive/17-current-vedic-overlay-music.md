@@ -1,5 +1,5 @@
 ---
-title: 17 - Current vedic-overlay-music-prompt.md
+title: "17 - Current vedic-overlay-music-prompt.md"
 type: archive
 date: 2026-05-08
 ---

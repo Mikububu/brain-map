@@ -1,5 +1,5 @@
 ---
-title: 07 - HD synastry: sparse vocals, instrumental space (Mar 31)
+title: "07 - HD synastry: sparse vocals, instrumental space (Mar 31)"
 type: archive
 date: 2026-03-31
 commit: f5e82a2f

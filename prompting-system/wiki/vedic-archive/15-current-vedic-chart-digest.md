@@ -1,5 +1,5 @@
 ---
-title: 15 - Current vedic-chart-digest-v1.md
+title: "15 - Current vedic-chart-digest-v1.md"
 type: archive
 date: 2026-05-08
 ---

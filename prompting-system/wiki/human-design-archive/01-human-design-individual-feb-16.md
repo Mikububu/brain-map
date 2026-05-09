@@ -1,5 +1,5 @@
 ---
-title: 01 - human-design-individual.md (Feb 16 birth)
+title: "01 - human-design-individual.md (Feb 16 birth)"
 type: archive
 date: 2026-02-16
 commit: 4cba79c2

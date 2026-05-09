@@ -1,5 +1,5 @@
 ---
-title: 10-mar-21-happiness-index
+title: "10-mar-21-happiness-index"
 type: archive
 date: 2026-03-21
 commit: 2aef2407

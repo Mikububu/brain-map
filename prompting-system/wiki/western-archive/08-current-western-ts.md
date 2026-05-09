@@ -1,5 +1,5 @@
 ---
-title: 08 - Current western.ts (TypeScript, the actual system prompt)
+title: "08 - Current western.ts (TypeScript, the actual system prompt)"
 type: archive
 date: 2026-05-08
 ---
